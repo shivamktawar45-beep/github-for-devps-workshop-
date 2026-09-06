@@ -1,0 +1,8 @@
+git init
+git status
+git add 
+git add .
+git commit -m "added testing files"
+git restore testing.py
+dir 
+clear 
